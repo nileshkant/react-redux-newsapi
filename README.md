@@ -8,9 +8,12 @@ There are two methods for getting started with this repo.
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
-git clone https://github.com/nileshkant/react-redux-newsapi.git
-> cd react-youtube-api
+> git clone https://github.com/nileshkant/react-redux-newsapi.git
+
+> cd react-redux-newsapi
+
 > npm install
+
 > npm start
 
 ### Not Familiar with Git?
@@ -18,7 +21,9 @@ git clone https://github.com/nileshkant/react-redux-newsapi.git
 Click here then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 > npm install
+
 > npm start
+
 This project was bootstrapped with Create React App.
 
 ## Available Scripts
