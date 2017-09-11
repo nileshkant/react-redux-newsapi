@@ -1,10 +1,10 @@
-### Getting Started
+## Getting Started
 It is based on React along side with Redux to fech the api data.
 We Recommend to use your own API KEY to get started its completely free
 
 There are two methods for getting started with this repo.
 
-## Familiar with Git?
+### Familiar with Git?
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
@@ -13,7 +13,7 @@ git clone https://github.com/nileshkant/react-redux-newsapi.git
 > npm install
 > npm start
 
-## Not Familiar with Git?
+### Not Familiar with Git?
 
 Click here then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
@@ -25,7 +25,7 @@ This project was bootstrapped with Create React App.
 
 In the project directory, you can run:
 
-# npm start
+#### npm start
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
@@ -33,12 +33,12 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-# npm test
+#### npm test
 
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-# npm run build
+#### npm run build
 
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -48,9 +48,9 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-# npm run eject
+#### npm run eject
 
 ### Go for api [Documentation](https://newsapi.org/) before start
 
-## SCREENSHOT
+### SCREENSHOT
 ![image](https://gifyu.com/images/Peek2017-09-1119-21.gif)
