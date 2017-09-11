@@ -1,6 +1,6 @@
 ## Getting Started
 It is based on React along side with Redux to fech the api data.
-We Recommend to use your own API KEY to get started its completely free
+We Recommend to use your own [API KEY](https://newsapi.org/) to get started its completely free
 
 There are two methods for getting started with this repo.
 
