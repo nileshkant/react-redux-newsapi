@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_KEY = '0f9adeaeb47c4ca99fef6ad421b57b11';
+const API_KEY = 'Put Your API KEY Here';
 
 const ROOT_URL = `https://newsapi.org/v1/articles?source=the-times-of-india&apiKey=${API_KEY}`;
 export const FETCH_NEWS = 'FETCH_NEWS';
